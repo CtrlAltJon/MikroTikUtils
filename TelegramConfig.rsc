@@ -1,3 +1,12 @@
+# ============================================================================================================
+# Script Name:   TelegramConfig.rsc
+# Author:        CtrlAltJon
+# Descrizione:   Configuration file script for Telegram Bot
+#
+# Copyright (c) 2025 CtrlAltJon
+# Rilasciato sotto licenza MIT (https://opensource.org/licenses/MIT)
+# ============================================================================================================
+
 :local config {
 # Configuration of bot XXXXXX
 "TToken"="0000000000:XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX";
