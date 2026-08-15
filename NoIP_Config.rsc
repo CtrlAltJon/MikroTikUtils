@@ -4,7 +4,7 @@
 # Descrizione:   Configuration file script for No-IP.com DDNS service
 #
 # Copyright (c) 2025 CtrlAltJon
-# Rilasciato sotto licenza MIT (https://opensource.org/licenses/MIT)
+# Released under the MIT License (https://opensource.org/licenses/MIT)
 # ============================================================================================================
 
 # Configuration of DDNS no-ip.com

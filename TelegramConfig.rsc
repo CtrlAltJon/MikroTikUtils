@@ -4,7 +4,7 @@
 # Descrizione:   Configuration file script for Telegram Bot
 #
 # Copyright (c) 2025 CtrlAltJon
-# Rilasciato sotto licenza MIT (https://opensource.org/licenses/MIT)
+# Released under the MIT License (https://opensource.org/licenses/MIT)
 # ============================================================================================================
 
 :local config {

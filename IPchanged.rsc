@@ -4,7 +4,7 @@
 # Descrizione:   Script to monitor public IP changes and send Telegram notification
 #
 # Copyright (c) 2025 CtrlAltJon
-# Rilasciato sotto licenza MIT (https://opensource.org/licenses/MIT)
+# Released under the MIT License (https://opensource.org/licenses/MIT)
 # ============================================================================================================
 
 # Import Telegram configuration from other file script

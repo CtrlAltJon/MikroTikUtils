@@ -4,7 +4,7 @@
 # Descrizione:   Script to send MikroTik System Status to Telegram
 #
 # Copyright (c) 2025 CtrlAltJon
-# Rilasciato sotto licenza MIT (https://opensource.org/licenses/MIT)
+# Released under the MIT License (https://opensource.org/licenses/MIT)
 # ============================================================================================================
 
 # Function - Generate String of dots for middle space from Name ad Value
