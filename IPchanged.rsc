@@ -22,7 +22,7 @@
 # Locals
 :local error ""
 :local filename "myIP.txt"
-:local curIP (([/tool fetch url="https://api.db-ip.com/v2/free/self/ipAddress" output=user as-value])->"data")
+:local curIP (([/tool fetch url="https://ifconfig.me/ip" output=user as-value])->"data")
 :local prevIP ""
 :local msg ""
 :local curTime [/system clock get time]
